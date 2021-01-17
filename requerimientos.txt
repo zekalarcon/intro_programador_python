@@ -2,6 +2,7 @@ pip3 install -U pip --user
 pip3 install numpy
 pip3 install matplotlib
 pip3 install mplcursors
+pip3 install SQLAlchemy
 pip3 install tinymongo
 pip3 install requests
 pip3 install -U Flask
